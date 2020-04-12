@@ -31,7 +31,5 @@ class Transfer
     end
     
   end
-  @status = "complete"
-end
-  end
+
   
